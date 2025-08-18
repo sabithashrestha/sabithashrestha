@@ -16,15 +16,4 @@ Experienced **frontend developer** with a proven track record in creating effici
 
 ---
 
-## 💼 Employment History  
-
-### Frontend Developer  
-**CSTC Pvt Ltd, Nepal** | *April 2020 – October 2023*  
-- Developed and revamped multiple enterprise web applications.  
-- Improved UI/UX and built reusable frontend components.
-- **Tools Used:** jQuery, Bootstrap  
-
----
-
-
 💡 *“The best way to predict the future is to create it.”*  
