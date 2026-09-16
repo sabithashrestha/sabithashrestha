@@ -1,4 +1,4 @@
-# Hey 👋, I’m Sabi  
+# Hello 👋, I’m Sabi  
 
 I’m a passionate **frontend developer** with over 3 years of professional experience in designing and developing websites and web applications — from small-scale solutions to large enterprise systems. I actively explore modern frameworks and development tools to stay aligned with market trends and deliver high-quality, user-focused products. I’m eager to contribute my skills to a dynamic team where I can grow and make a real impact.  
 
@@ -10,7 +10,7 @@ Experienced **frontend developer** with a proven track record in creating effici
 ---
 
 ## 🛠 Technical Skills  
-- **Languages & Frameworks:** JavaScript, jQuery, React.js, Python, Bootstrap  
+- **Languages & Frameworks:** HTML, CSS, JavaScript, jQuery, React.js, Python, Bootstrap, NodeJS  
 - **Database Management:** MySQL, MSSQL  
 - **Version Control & Tools:** Git, GitHub  
 
